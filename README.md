@@ -65,16 +65,12 @@ I'm a **B.S. student in Data Science & Applications** at **IIT Madras**, passion
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam91264&layout=compact&theme=dark&hide_border=true" alt="Shivam's Top Languages" />
 
-<!-- Replace YOUR-LEETCODE-USERNAME with your actual LeetCode username -->
-<img src="https://leetcode-stats.vercel.app/api?username=YOUR-LEETCODE-USERNAME&theme=dark" alt="LeetCode Stats" />
-</p>
-
 ---
 
 ## 📬 Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/#" target="_blank">
+<a href="https://www.linkedin.com/in/shivam-gupta-10b87a391" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/#" target="_blank">
@@ -87,17 +83,3 @@ I'm a **B.S. student in Data Science & Applications** at **IIT Madras**, passion
 
 ---
 
-## 🎬 Recent YouTube Videos
-<!-- Add your video links below -->
-- [Your Video Title 1](#)
-- [Your Video Title 2](#)
-
----
-
-## 📝 Recent Articles
-<!-- Add your article links below -->
-- [Your Article Title 1](#)
-- [Your Article Title 2](#)
-
----
-⭐ **Thanks for visiting my profile!** 😊
